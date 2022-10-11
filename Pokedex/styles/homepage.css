@@ -1,4 +1,8 @@
 body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
     background-color: #ffbfb0;
     font-family: 'Roboto', sans-serif;
 }
@@ -26,7 +30,7 @@ ul{
     display: flex;
     justify-content: center;
     text-align: center;
-    margin-left: 435px;
+    
  }
 
 a{
